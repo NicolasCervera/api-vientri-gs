@@ -1,0 +1,15 @@
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\bin\Debug\net6.0\iaas.vientri.gs.Application.deps.json
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\bin\Debug\net6.0\iaas.vientri.gs.Application.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\bin\Debug\net6.0\iaas.vientri.gs.Application.pdb
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\bin\Debug\net6.0\iaas.vientri.gs.Domain.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\bin\Debug\net6.0\iaas.vientri.gs.Domain.pdb
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.csproj.AssemblyReference.cache
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.AssemblyInfoInputs.cache
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.AssemblyInfo.cs
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.csproj.CoreCompileInputs.cache
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.csproj.CopyComplete
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\refint\iaas.vientri.gs.Application.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\iaas.vientri.gs.Application.pdb
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Application\obj\Debug\net6.0\ref\iaas.vientri.gs.Application.dll

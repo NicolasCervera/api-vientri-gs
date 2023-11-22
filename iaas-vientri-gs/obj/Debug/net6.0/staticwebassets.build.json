@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x7dHU4M1hRmTmJ5N0RxwER9Z5Una2351+CJyl6TWei8=",
+  "Source": "iaas-vientri-gs",
+  "BasePath": "_content/iaas-vientri-gs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

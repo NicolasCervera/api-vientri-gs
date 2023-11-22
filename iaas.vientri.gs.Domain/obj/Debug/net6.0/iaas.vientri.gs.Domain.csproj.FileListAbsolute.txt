@@ -1,0 +1,12 @@
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\bin\Debug\net6.0\iaas.vientri.gs.Domain.deps.json
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\bin\Debug\net6.0\iaas.vientri.gs.Domain.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\bin\Debug\net6.0\iaas.vientri.gs.Domain.pdb
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.csproj.AssemblyReference.cache
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.AssemblyInfoInputs.cache
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.AssemblyInfo.cs
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.csproj.CoreCompileInputs.cache
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\refint\iaas.vientri.gs.Domain.dll
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\iaas.vientri.gs.Domain.pdb
+F:\GS\Repos\iaas-vientri-gs\iaas.vientri.gs.Domain\obj\Debug\net6.0\ref\iaas.vientri.gs.Domain.dll

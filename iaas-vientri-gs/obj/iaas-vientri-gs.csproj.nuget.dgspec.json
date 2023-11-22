@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\GS\\Repos\\iaas-vientri-gs\\iaas-vientri-gs\\iaas-vientri-gs.csproj": {}
+  },
+  "projects": {
+    "F:\\GS\\Repos\\iaas-vientri-gs\\iaas-vientri-gs\\iaas-vientri-gs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas-vientri-gs\\iaas-vientri-gs.csproj",
+        "projectName": "iaas-vientri-gs",
+        "projectPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas-vientri-gs\\iaas-vientri-gs.csproj",
+        "packagesPath": "C:\\Users\\nicod\\.nuget\\packages\\",
+        "outputPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas-vientri-gs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dmz-test-nexus.gsdmz.net.ar:8081/repository/nuget-group/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Application\\iaas.vientri.gs.Application.csproj": {
+                "projectPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Application\\iaas.vientri.gs.Application.csproj"
+              },
+              "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj": {
+                "projectPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Application\\iaas.vientri.gs.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Application\\iaas.vientri.gs.Application.csproj",
+        "projectName": "iaas.vientri.gs.Application",
+        "projectPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Application\\iaas.vientri.gs.Application.csproj",
+        "packagesPath": "C:\\Users\\nicod\\.nuget\\packages\\",
+        "outputPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dmz-test-nexus.gsdmz.net.ar:8081/repository/nuget-group/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj": {
+                "projectPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj",
+        "projectName": "iaas.vientri.gs.Domain",
+        "projectPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\iaas.vientri.gs.Domain.csproj",
+        "packagesPath": "C:\\Users\\nicod\\.nuget\\packages\\",
+        "outputPath": "F:\\GS\\Repos\\iaas-vientri-gs\\iaas.vientri.gs.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dmz-test-nexus.gsdmz.net.ar:8081/repository/nuget-group/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
